@@ -1,3 +1,20 @@
-h1{
-    
+.main-header{
+    text-align: center;
+
+}
+
+.main-content{
+    text-align:left;
+}
+
+.geicofooter{
+    text-align: center;
+}
+
+.commentsfooter{
+    text-align: left;
+}
+
+.legalfooter{
+    text-align: left-;
 }
